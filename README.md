@@ -33,8 +33,6 @@ Here is a set of matlab and python routines allowing to :
 
 - Adapt the crocotools_param.m section :
 
-%--------------------------------------------------
-%  Options for make_CMIP5
-%--------------------------------------------------
+        %  Options for make_CMIP5
 
 - Finally, executing make_ERA5 under matlab should work fine.
