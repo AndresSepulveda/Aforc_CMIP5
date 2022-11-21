@@ -1,0 +1,25 @@
+{
+  "---------" : ["---------------------------------------------------" , "-------------" , "-------" , "-------" , "--" , "--" ],
+  "ShortName" : ["VariableNameInCDS                                  " , "Units"         , "Name_nc" , "LevType" , "An" , "Fc" ],
+  "---------" : ["---------------------------------------------------" , "-------------" , "-------" , "-------" , "--" , "--" ],
+  "sst"       : ["sea_surface_temperature"                             , "K"             , "tos"     , "sfc"     , "1"  , "1"  ],
+  "msl"       : ["mean_sea_level_pressure"                             , "Pa"            , "-"       , "sfc"     , "1"  , "1"  ],
+  "tcc"       : ["total_cloud_cover"                                   , "(0 - 1)"       , "-"       , "sfc"     , "1"  , "1"  ],
+  "u10"       : ["10m_u_component_of_wind"                             , "m s-1"         , "uas"     , "sfc"     , "1"  , "1"  ],
+  "v10"       : ["10m_v_component_of_wind"                             , "m s-1"         , "vas"     , "sfc"     , "1"  , "1"  ],
+  "t2m"       : ["2m_temperature"                                      , "K"             , "tas"     , "sfc"     , "1"  , "1"  ],
+  "strd"      : ["surface_thermal_radiation_downwards"                 , "J m-2"         , "rlds"    , "sfc"     , "0"  , "1"  ],
+  "ssrd"      : ["surface_solar_radiation_downwards"                   , "J m-2"         , "rsds"    , "sfc"     , "0"  , "1"  ],
+  "ewss"      : ["eastward_turbulent_surface_stress"                   , "N m-2 s"       , "tauu"    , "sfc"     , "0"  , "1"  ],
+  "nsss"      : ["northward_turbulent_surface_stress"                  , "N m-2 s"       , "tauv"    , "sfc"     , "0"  , "1"  ],
+  "e"         : ["evaporation"                                         , "m"             , "-"       , "sfc"     , "0"  , "1"  ],
+  "tp"        : ["mean_precipitation_flux"                             , "m"             , "pr"      , "sfc"     , "0"  , "1"  ],
+  "sshf"      : ["surface_sensible_heat_flux"                          , "W m-2"         , "-"       , "sfc"     , "0"  , "1"  ],
+  "slhf"      : ["surface_latent_heat_flux"                            , "W m-2"         , "-"       , "sfc"     , "0"  , "1"  ],
+  "ssh"       : ["sea_surface_height_above_geoid"                      , "m"             , "zos"     , "sfc" 	 , "1"  , "1"  ],
+  "q"         : ["near_surface_specific_humidity"                      , "kg kg-1"       , "huss"    , "sfc"     , "1"  , "1"  ],
+  "r"         : ["near_surface_relative_humidity"                      , "%"             , "-"       , "sfc"     , "1"  , "1"  ]
+}
+
+
+
