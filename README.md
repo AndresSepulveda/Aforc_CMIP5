@@ -19,21 +19,22 @@ Here is a set of matlab and python routines allowing to :
 
 - Then to download the CMIP5 data (step 1 above)
 
-    >> python3 CMIP5_request.py
+        >> python3 CMIP5_request.py
 
 - Then to unzip the raw download data and change name of the netcdf files
 
-    >> ./CMIP5_unzip.sh
+        >> ./CMIP5_unzip.sh
 
 - Then to convert the CMIP5 data with unit and name into a "CROCO online bulk" compatible format (unit and names) (step 2 above):
 
-    >> python3 CMIP5_convert.py
+        >> python3 CMIP5_convert.py
 
 - If the user want to interpolate the data onto the croco model grid in order to crerate frc/blk netcdf file (Optional step 3 above)
 
-    -->  adapt the crocotools_param.m section :
-    %--------------------------------------------------
-    %  Options for make_ERA5
-    %--------------------------------------------------
+- Adapt the crocotools_param.m section :
 
-    --> Finally, executing make_ERA5 under matlab should work fine.
+%--------------------------------------------------
+%  Options for make_CMIP5
+%--------------------------------------------------
+
+- Finally, executing make_ERA5 under matlab should work fine.
