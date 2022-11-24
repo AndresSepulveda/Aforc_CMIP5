@@ -13,7 +13,7 @@ Here is a set of matlab and python routines allowing to :
         - apply correct unit transformation
         - rename the variable with "CROCO" compatible names
 
-- Pre-requisite : First the user need to install the CMIP5 python API : https://cds.climate.copernicus.eu/api-how-to
+- Pre-requisite : First the user need to install the CDS python API : https://cds.climate.copernicus.eu/api-how-to
 
 - Edit the cmip5_crocotools_param.py parameter file
 
