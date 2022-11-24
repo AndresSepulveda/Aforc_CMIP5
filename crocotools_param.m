@@ -504,7 +504,7 @@ add_tides_fcst = 1;       % 1: add tides
 %
 if strcmp(OGCM,'mercator')
   user     = 'sgarcialoyola';
-  password = 'Seba8442';
+  password = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
   pathMotu =[CROCOTOOLS_dir,'Forecast_tools/'];
 
