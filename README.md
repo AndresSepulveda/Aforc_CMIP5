@@ -2,7 +2,7 @@
 
 Scrips for ECMWF CDSAPI app data download, processing, renaming, and interpolation for use with CMIP5 data.
 
-* 2022 - S.G. Loyola (s.garcia.loyola@usp.br) - Update from Aforc_ERA5 to Aforc_CMIP5
+* 2022 - S.G. Loyola (s.garcia.loyola@usp.br) : An update from Aforc_ERA5 to Aforc_CMIP5
 
 Here is a set of matlab and python routines allowing to :
 
