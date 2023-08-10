@@ -35,4 +35,4 @@ Here is a set of matlab and python routines allowing to :
 
         %  Options for make_CMIP5
 
-- Finally, executing make_ERA5 under matlab should work fine.
+- Finally, executing make_CMIP5 under matlab should work fine.
